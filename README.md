@@ -95,7 +95,7 @@ This branch adds a small, focused test suite to help catch logic regressions ear
 Run tests locally with:
 
 ```bash
-npm test
+npm run test
 ```
 
 These tests are intentionally small and fast; they give quick feedback before adding heavier visual snapshots or E2E suites.
